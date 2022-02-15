@@ -8,7 +8,7 @@ import pandas as pd
 import datetime as dt
 
 #################################################
-# Mac
+
 #################################################
 # Set Executable Path & Initialize Chrome Browser
 executable_path = {"executable_path": "/Users/saleh/Downloads/chromedrive"}
